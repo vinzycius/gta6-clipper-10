@@ -34,6 +34,9 @@ function loadVideoAddress(botDir: string): string | null {
   if (typeof url !== 'string') {
     throw new Error('VIDEO.json "url" must be a string');
   }
+  if (url === '') {
+    throw new Error('VIDEO.json "url" must not be empty');
+  }
   // The starter's placeholder is not a video, but it is not this
   // program's job to refuse it: pass it through unchanged and let the
   // gate refuse it (valid 0), exactly as the starter's copy does. The

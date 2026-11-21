@@ -25,7 +25,7 @@ slow scenery, so the surprise lands in the first two seconds.
 then the phone call at 11.5s–13.5s, then Jason and Lucia together —
 the car, the red car, the sunlit window, the sunset embrace — plus
 the rooftop explosion, the beach plane, and the night chase, with the
-ankle monitor and the GTA VI logo closing it. 34.25 seconds, vertical
+ankle monitor and the GTA VI logo closing it. 33.75 seconds, vertical
 1080x1920, a Short. The footage is blur-filled to 9:16 so nothing is
 cropped away, the original audio stays, and the audio fades out over
 the last second.
